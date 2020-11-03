@@ -1740,7 +1740,7 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #88dccc;
+  border-color: red;
 }
 
 .table-hover .table-primary:hover {
